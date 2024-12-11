@@ -83,3 +83,19 @@ a.maidz {
 a.maidz.maidz1 {
   margin-left: 0%;
 }
+td.td1 {
+  margin-top: 5px;
+}
+th.login {
+  margin-top: 1px;
+}
+table.demo {
+  border: solid;
+}
+h5 {
+  text-align: center;
+}
+a.demo1 {
+  width: 60%;
+  height: 70%;
+}
